@@ -1,0 +1,27 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fdf6f0;
+  color: #333;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+header, section, footer {
+  margin-bottom: 40px;
+}
+
+h1, h2 {
+  color: #a8325f;
+}
+
+a {
+  color: #2a7ae2;
+  text-decoration: none;
+}
+
+blockquote {
+  font-style: italic;
+  color: #555;
+  border-left: 4px solid #a8325f;
+  padding-left: 10px;
+}
